@@ -21,4 +21,4 @@ jobs:
         run: pwd
 
       - name: List Files
-        run: ls -l
+        run: ls -ltr
